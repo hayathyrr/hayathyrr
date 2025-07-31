@@ -12,13 +12,6 @@
 
 ## Skills :
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/python-%2399aab5?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
-
 <!-- Web & CMS -->
 ![HTML5](https://img.shields.io/badge/html-%23d9534f?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=black)
@@ -47,6 +40,13 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Spoon(Pentaho)-F47C00?style=for-the-badge)
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/python-%2399aab5?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+
 
 <!-- DevOps / Tools -->
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

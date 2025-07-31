@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/hayat-roubakhi-97ba051b3/" style="margin-left: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 32px; height: 32px;">
   </a>
-  <a href="mailto:hayat.roubakhi@etu.uae.ac.ma" style="margin-left: 10rpx;">
+  <a href="mailto:hayatroubakhi21@gmail.com" style="margin-left: 10rpx;">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" style="width: 35px; height: 32px;">
   </a>
   <a href="https://www.facebook.com/hayat.roubakhi" style="margin-left: 10px;">

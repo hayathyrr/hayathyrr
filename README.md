@@ -1,7 +1,6 @@
 # Hi there 👋
 
-## I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
-#### :zap:  Starting a new Internship
+## I'm Hayat Roubakhi, a Computer Engineer specialized in Information Systems and Decision Support, with hands-on experience in developing intelligent, data-driven solutions. Skilled in leveraging Artificial Intelligence, Deep Learning, and Business Intelligence tools to design and implement innovative systems that support strategic decision-making.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hayatvhyr.profile)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display:inline-block; margin-right: 10px;" />

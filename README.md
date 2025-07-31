@@ -2,8 +2,7 @@
 
 ## I'm Hayat Roubakhi, a Computer Engineer specialized in Information Systems and Decision Support, with hands-on experience in developing intelligent, data-driven solutions. Skilled in leveraging Artificial Intelligence, Deep Learning, and Business Intelligence tools to design and implement innovative systems that support strategic decision-making.
 
-> ⚠️ **Note:** This is my old GitHub account.  
->  👉 [hayatvyhr](https://github.com/hayatvyhr/hayatvyhr) for the old projects.
+> ⚠️ **Note:** This is my old GitHub account.  >  👉 [hayatvyhr](https://github.com/hayatvyhr/hayatvyhr) for the old projects.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hayatvhyr.profile)
 <p>

@@ -87,9 +87,6 @@
   <a href="mailto:hayatroubakhi21@gmail.com" style="margin-left: 10rpx;">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" style="width: 35px; height: 32px;">
   </a>
-  <a href="https://www.facebook.com/hayat.roubakhi" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="fb" style="width: 32px; height: 32px;">
-  </a>
 </div>
 
 

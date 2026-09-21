@@ -8,11 +8,11 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hayatvhyr.profile)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayatvyhr&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatvyhr&layout=compact&theme=tokyonight"
+    alt="Top Languages" style="display:inline-block;" />
 </p>
-
-
 
 
 ## Skills :
